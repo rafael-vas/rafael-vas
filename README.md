@@ -1,4 +1,4 @@
-<h1 align="center"> Hey! Eu sou Rafael Vasconcelos 🔥 </h1>
+<h1 align="center"> Hey there! </h1>
 <p align="center">
 👨🏻‍💻 Desenvolvedor Web Front-end Júnior <br/>
 💻 Técnico em Informática para Internet pelo IFPE <br/> <br/>
@@ -6,8 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/rafael-vas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-vas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-vas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <br/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vas&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div align="center"><br/
