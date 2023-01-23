@@ -24,8 +24,10 @@
 
 
 <div align="center"><br/>
-<a href="https://www.linkedin.com/in/rafaelvas/" target="_blank"><img align="center" alt="Rafael Linkedin Account" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/zrafaeu/" target="_blank"><img align="center" alt="Rafael Instagram Account" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="mailto:rafaelvas2011@hotmail.com" target="_blank"><img align="center" alt="Rafael Outlook Account" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rafaelvas/" target="_blank"><img align="center" alt="Rafael Linkedin Account" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/zrafaeu/" target="_blank"><img align="center" alt="Rafael Instagram Account" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="mailto:rafaelvas2011@hotmail.com" target="_blank"><img align="center" alt="Rafael Outlook Account" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
+
+![Snake animation](https://github.com/rafael-vas/rafael-vas/blob/output/github-contribution-grid-snake.svg)
 
