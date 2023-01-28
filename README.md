@@ -29,5 +29,3 @@
   <a href="mailto:rafaelvas2011@hotmail.com" target="_blank"><img align="center" alt="Rafael Outlook Account" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/rafael-vas/rafael-vas/blob/output/github-contribution-grid-snake.svg)
-
