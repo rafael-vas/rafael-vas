@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! </h1>
 <p align="center">
 👨🏻‍💻 Desenvolvedor Web Front-end Júnior <br/>
-💻 Técnico em Informática para Internet pelo IFPE <br/> <br/>
+💻 ADS - IFPE <br/> <br/>
 </p>
 
 <div align="center">
