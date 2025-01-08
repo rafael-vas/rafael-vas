@@ -1,15 +1,16 @@
-# Opa, bem vindo! ☕
 
-#### Me chamo Rafael Vasconcelos, desenvolvedor front-end em formação, natural de Recife/PE, e um jovem curioso incansável pelo mundo da música e da programação! Me realizo com cada desafio que me deparo, seja solucionando problemas complexos ou aprendendo uma nova tecnologia. Acredito no poder da programação para transformar ideias em realidade, estou sempre em busca de novas oportunidades para por em prática esse poder.
+## Rafael Vasconcelos - Desenvolvedor Front end.
+### Perfil em construção
 
-### Sinta-se à vontade para se conectar comigo:
 <div>
-  <a href="https://www.linkedin.com/in/rafaelvas/" target="_blank"><img align="center" alt="Rafael Linkedin Account" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/hafavasconcelos/" target="_blank"><img align="center" alt="Rafael Instagram Account" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="mailto:rafaelvas2011@hotmail.com" target="_blank"><img align="center" alt="Rafael Outlook Account" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://github.com/rafael-vas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-vas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vas&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+    
+<br>
 
-## Minha stack
+### Minha stack
 <div align="left">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,12 +26,15 @@
     <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 </div>
-
-<br/>
-<br/>
-
-<div align="center">
-
-#### Atualmente viciado nessa música:
-<img alt="song icon" src="https://dnc331.pythonanywhere.com/lastfm?username=rafaeuo">
+ 
+ <br>
+ 
+  ### Redes sociais
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/rafaelvas/" target="_blank"><img align="center" alt="Rafael Linkedin Account" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/hafavasconcelos/" target="_blank"><img align="center" alt="Rafael Instagram Account" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="mailto:rafaelvas2011@hotmail.com" target="_blank"><img align="center" alt="Rafael Outlook Account" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
+
+![Snake animation](https://github.com/rafael-vas/rafael-vas/blob/output/github-contribution-grid-snake.svg)
