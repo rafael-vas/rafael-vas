@@ -1,6 +1,6 @@
+# Rafael Vasconcelos - Desenvolvedor Front end.
 
-## Rafael Vasconcelos - Desenvolvedor Front end.
-### Perfil em construção
+## Perfil em construção
 
 <div>
   <a href="https://github.com/rafael-vas">
@@ -10,7 +10,7 @@
     
 <br>
 
-### Minha stack
+## 🌟 Minha stack
 <div align="left">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,14 +27,13 @@
     <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 </div>
  
- <br>
+<br>
  
-  ### Redes sociais
- 
-<div> 
-  <a href="https://www.linkedin.com/in/rafaelvas/" target="_blank"><img align="center" alt="Rafael Linkedin Account" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/hafavasconcelos/" target="_blank"><img align="center" alt="Rafael Instagram Account" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="mailto:rafaelvas2011@hotmail.com" target="_blank"><img align="center" alt="Rafael Outlook Account" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-</div>
+## 🌐 Redes sociais
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelvas/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hafuxo/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:rafaelvas2011@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=Google-Chrome&logoColor=white)](https://rafael-vas-portfolio.netlify.app)
 
 ![Snake animation](https://github.com/rafael-vas/rafael-vas/blob/output/github-contribution-grid-snake.svg)
