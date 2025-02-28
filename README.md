@@ -1,4 +1,5 @@
-# Rafael Vasconcelos - Desenvolvedor Front end.
+![blur](https://capsule-render.vercel.app/api?type=blur&height=275&color=gradient&text=Rafael%20Vasconcelos&strokeWidth=1&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=44&textBg=false)
+
 
 <div>
   <a href="https://github.com/rafael-vas">
