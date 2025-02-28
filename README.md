@@ -1,14 +1,5 @@
 ![blur](https://capsule-render.vercel.app/api?type=blur&height=275&color=gradient&text=Rafael%20Vasconcelos&strokeWidth=1&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=44&textBg=false)
 
-
-<div>
-  <a href="https://github.com/rafael-vas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-vas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vas&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<br>
-
 ## Minha stack
 ![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=plastic&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=plastic&logo=css3&logoColor=44A7FF)
@@ -33,5 +24,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-C9314E.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hafuxo/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-086ABF.svg?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:rafaelvas2011@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D222A.svg?style=flat&logo=Google-Chrome&logoColor=white)](https://rafael-vas-portfolio.netlify.app)
+
+<br>
+
+<div>
+  <a href="https://github.com/rafael-vas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-vas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vas&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ![Snake animation](https://github.com/rafael-vas/rafael-vas/blob/output/github-contribution-grid-snake.svg)
